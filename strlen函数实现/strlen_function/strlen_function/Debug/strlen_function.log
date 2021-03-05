@@ -1,0 +1,3 @@
+﻿  my_strlen3.c
+d:\c code\strlen_function\strlen_function\my_strlen3.c(8): warning C4090: “初始化”: 不同的“const”限定符
+  strlen_function.vcxproj -> D:\C code\strlen_function\Debug\strlen_function.exe
