@@ -1,0 +1,4 @@
+﻿  chapter3.c
+d:\c code\习题3\习题3\chapter3.c(44): warning C4305: “初始化”: 从“double”到“float”截断
+d:\c code\习题3\习题3\chapter3.c(45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  习题3.vcxproj -> D:\C code\习题3\Debug\习题3.exe
